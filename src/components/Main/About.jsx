@@ -109,18 +109,18 @@ const About = () => (
                         <img alt="Bootstrap" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                         <h5>Bootstrap</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="jQuery" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
                         <h5>jQuery</h5>
-                    </div>
+                    </div> */}
                     <div>
                         <img alt="React" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                         <h5>React</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="Typescript" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                         <h5>Typescript</h5>
-                    </div>
+                    </div> */}
                 </div>
                 <h4>Back-End</h4>
                 <div className="skill">
@@ -128,18 +128,18 @@ const About = () => (
                         <img alt="Nodejs" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                         <h5>NodeJs</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="express" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                         <h5>Express</h5>
-                    </div>
+                    </div> */}
                     <div>
                         <img alt="php" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
                         <h5>PHP</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="laravel" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
                         <h5>Laravel</h5>
-                    </div>
+                    </div> */}
                     <div>
                         <img alt="mysql" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
                         <h5>MySQL</h5>

@@ -1,3 +1,3 @@
-# Portfolio MILTON DIAZ 1.9.0 🖥️
+# Portfolio MILTON DIAZ 🖥️
 
-![preview img](/preview.png)
+<!-- ![preview img](/preview.png) -->
