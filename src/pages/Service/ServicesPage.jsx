@@ -124,79 +124,79 @@ const Services = () => {
 
         <section className="site-services">
           <h2 className="heading">
-            <FormattedMessage
+            {/* <FormattedMessage
               id='services-price'
               defaultMessage='Price'
-            />
+            /> */}
           </h2>
           <div className="row">
             <div className="columns" data-aos="fade-up" data-aos-delay="200">
               <h3>
-                <FormattedMessage
+                {/* <FormattedMessage
                   id='services-info-title-1'
                   defaultMessage='Essential'
-                />
+                /> */}
               </h3>
               <h4 className="sub-title">
-                <FormattedMessage
+                {/* <FormattedMessage
                   id='services-info-sub-title-1'
                   defaultMessage='Perfect for new businesses'
-                />
+                /> */}
               </h4>
-              <p className="numero"><span>$</span>150</p>
+              {/* <p className="numero"><span>$</span>150</p> */}
               <ul className="ul-cards-services">
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span >
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-1-p1'
                       defaultMessage='1 responsive page'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p2'
                       defaultMessage='+3 sections for page'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p3'
                       defaultMessage='Contact Form'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p4'
                       defaultMessage='Domain for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p5'
                       defaultMessage='Hosting for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-1-p6'
                       defaultMessage='Delivered in 5 business days'
-                    />
+                    /> */}
                   </span>
                 </li>
               </ul>
@@ -210,89 +210,89 @@ const Services = () => {
             </div>
             <div className="columns recomendado" data-aos="fade-up" data-aos-delay="300">
               <h3>
-                <FormattedMessage
+                {/* <FormattedMessage
                   id='services-info-title-2'
                   defaultMessage='Professional'
-                />
+                /> */}
               </h3>
               <h4 className="sub-title">
-                <FormattedMessage
+                {/* <FormattedMessage
                   id='services-info-sub-title-2'
                   defaultMessage='Designed for medium businesses'
-                />
+                /> */}
               </h4>
-              <p className="numero"><span>$</span>400</p>
+              {/* <p className="numero"><span>$</span>400</p> */}
               <ul className="ul-cards-services">
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-2-p1'
                       defaultMessage='5 responsive page'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p2'
                       defaultMessage='+3 sections for page'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p3'
                       defaultMessage='Contact Form'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p4'
                       defaultMessage='Domain for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p5'
                       defaultMessage='Hosting for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p6'
                       defaultMessage='animations'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p7'
                       defaultMessage='Free maintenance for 6 months'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-2-p6'
                       defaultMessage='Delivered in 7 business days'
-                    />
+                    /> */}
                   </span>
                 </li>
               </ul>
@@ -307,85 +307,85 @@ const Services = () => {
               </div> */}
             </div>
             <div className="columns" data-aos="fade-up" data-aos-delay="400">
-              <h3>Premium</h3>
+              {/* <h3>Premium</h3> */}
               <h4 className="sub-title">
-                <FormattedMessage
+                {/* <FormattedMessage
                   id='services-info-sub-title-3'
                   defaultMessage='Great for large websites'
-                />
+                /> */}
               </h4>
-              <p className="numero"><span>$</span>700</p>
+              {/* <p className="numero"><span>$</span>700</p> */}
               <ul className="ul-cards-services">
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-3-p1'
                       defaultMessage='+10 responsive pages'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p2'
                       defaultMessage='+3 sections for page'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p3'
                       defaultMessage='Contact Form'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p4'
                       defaultMessage='Domain for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p5'
                       defaultMessage='Hosting for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-p6'
                       defaultMessage='animations'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-3-p7'
                       defaultMessage='Free maintenance for 1 year'
-                    />
+                    /> */}
                   </span>
                 </li>
                 <li>
-                  <i className="fas fa-check"></i>
+                  {/* <i className="fas fa-check"></i> */}
                   <span>
-                    <FormattedMessage
+                    {/* <FormattedMessage
                       id='services-info-3-p6'
                       defaultMessage='Delivered in 14 business days'
-                    />
+                    /> */}
                   </span>
                 </li>
               </ul>
