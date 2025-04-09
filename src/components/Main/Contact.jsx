@@ -98,7 +98,7 @@ const Contact = () => (
                     Linkedin
                 </div>
             </a>
-            <a href="https://github.com/Nahuel61920/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://github.com/allisonjuliana" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>

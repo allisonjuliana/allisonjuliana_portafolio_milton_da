@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../pages/About/AboutPage.css'
 import { Link } from 'react-router-dom';
-import cv from '../../cv/cv.pdf';
+import cv from '../../cv/MiltonDiaz.pdf';
 import { ButtomGet } from '../ButtomGet/ButtomGet';
 
 /* Multi idioma */
@@ -45,7 +45,7 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            25
+                            48
                         </p>
                     </li>
                     <li>
@@ -72,7 +72,7 @@ const About = () => (
                     </li>
                 </ul>
                 <div className="mas-info">
-                    <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo buttonDownload">
+                    <a href={cv} target="_blank" rel="noopener noreferrer" download="MiltonDiaz.pdf" className="btn-codigo buttonDownload">
                         <FormattedMessage
                             id='btn-cv'
                             defaultMessage='Download CV'
