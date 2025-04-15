@@ -23,7 +23,7 @@ const Footer = () =>{
                 </div>
                 <div className="redes-sociales">
                     <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                    <a href="https://github.com/allisonjuliana" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                     <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
                     <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i></a>
                 </div>
