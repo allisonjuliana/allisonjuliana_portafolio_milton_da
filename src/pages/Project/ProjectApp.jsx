@@ -62,7 +62,7 @@ function ProjectApp() {
                                 defaultMessage='websites'
                             />
                         </NavLink>
-                        {/* <NavLink to="/project/app" offset={-150} duration={500}>
+                        <NavLink to="/project/app" offset={-150} duration={500}>
                             Apps
                         </NavLink>
                         <NavLink to="/project/game" offset={-150} duration={500}>
@@ -70,7 +70,7 @@ function ProjectApp() {
                                 id='games'
                                 defaultMessage='games'
                             />
-                        </NavLink> */}
+                        </NavLink>
                     </nav>
                 </section>
                 <section className="projects__grid apps">
@@ -79,7 +79,7 @@ function ProjectApp() {
                             <img src={proyectsImgApp(`./proyecto-app-18.png`)} alt="" className="projects__img" />
                         </a>
                     </div>
-                    <div className="projects__item">
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal17(!estadoModal17)}>
                             <img src={proyectsImgApp(`./proyecto-app-17.png`)} alt="" className="projects__img" />
                         </a>
@@ -163,7 +163,7 @@ function ProjectApp() {
                         <a onClick={() => cambiarEstadoModal1(!estadoModal1)}>
                             <img src={proyectsImgApp(`./proyecto-app-1.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
+                    </div> */}
                 </section>
             </main>
             <Modal

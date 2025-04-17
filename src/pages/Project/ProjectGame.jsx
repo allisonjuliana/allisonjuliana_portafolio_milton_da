@@ -66,21 +66,21 @@ const ProjectGame = () => {
                             <img src={proyectsImg(`./proyecto-game-4.jpg`)} alt="" className="projects__img" />
                         </a>
                     </div>
-                    <div className="projects__item">
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal3(!estadoModal3)}>
                             <img src={proyectsImg(`./proyecto-game-3.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
-                    <div className="projects__item">
+                    </div> */}
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal2(!estadoModal2)}>
                             <img src={proyectsImg(`./proyecto-game-2.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
-                    <div className="projects__item">
+                    </div> */}
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal1(!estadoModal1)}>
                             <img src={proyectsImg(`./proyecto-game-1.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
+                    </div> */}
                 </section>
             </main>
 

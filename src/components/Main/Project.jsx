@@ -242,24 +242,25 @@ const Project = () => {
                     </SwiperSlide> */}
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-9.jpg`)}
+                            src={proyectImg(`./APIHOTEL.jpg`)}
                             alt='proyectos'
                         />
                         <div className="content">
-                            <h3>Vida en papel</h3>
+                            <h3>APIHOTEL</h3>
                             <p>
-                                Bookstore
+                                Gestion Hotel
                             </p>
                             <p className="tecnologias">
                                 HTML5
                                 <span> -</span> CSS
                                 <span> -</span> JavaScript
+                                <span> -</span> React
                             </p>
                             <a href="https://apihotel-82ne.onrender.com " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/allisonjuliana/allisonjuliana_portafolio_milton_da" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-11.jpg`)}
                             alt='proyectos'
@@ -277,7 +278,7 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/PlusAnime/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/PlusAnime" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                 </Swiper>
                 <div className="swiper-pagination"></div>
             </div>
