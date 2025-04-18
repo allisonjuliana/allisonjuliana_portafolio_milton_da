@@ -15,21 +15,6 @@ const Service = () => (
             />
         </h2>
         <div className="row">
-            {/* <div className="columns" data-aos="fade-up" data-aos-delay="200">
-                <i className="fas fa-drafting-compass"></i>
-                <h3>
-                    <FormattedMessage
-                        id='design'
-                        defaultMessage='ADesign UX/UIboult me'
-                    />
-                </h3>
-                <p>
-                    <FormattedMessage
-                        id='design-info'
-                        defaultMessage='Design of attractive interfaces for both web and mobile users, making the most of the brand or product that the client wishes to exploit on their website'
-                    />
-                </p>
-            </div> */}
             <div className="columns" data-aos="fade-up" data-aos-delay="300">
                 <i className="fas fa-laptop"></i>
                 <h3>
@@ -75,21 +60,6 @@ const Service = () => (
                     />
                 </p>
             </div>
-            {/* <div className="columns" data-aos="fade-up" data-aos-delay="600">
-                <i className="fas fa-search"></i>
-                <h3>
-                    <FormattedMessage
-                        id='seo'
-                        defaultMessage='Web positioning (SEO)'
-                    />
-                </h3>
-                <p>
-                    <FormattedMessage
-                        id='seo-info'
-                        defaultMessage='Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines'
-                    />
-                </p>
-            </div> */}
             <div className="columns" data-aos="fade-up" data-aos-delay="700">
                 <i className="fas fa-tachometer-alt"></i>
                 <h3>
