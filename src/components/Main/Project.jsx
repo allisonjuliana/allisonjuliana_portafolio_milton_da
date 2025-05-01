@@ -68,7 +68,7 @@ const Project = () => {
                                 <span> -</span> React
                             </p>
                             <a href="https://apihotel-82ne.onrender.com " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/allisonjuliana/allisonjuliana_portafolio_milton_da" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://github.com/4GeeksAcademy/apihotel-final" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                 </Swiper>
